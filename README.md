@@ -1,3 +1,4 @@
 # Senior-Design
 Smart Medicine Cabinet Project
-Hey
+
+*Insert Information About Subsystems*
